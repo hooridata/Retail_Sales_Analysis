@@ -1,491 +1,491 @@
 OrderID,Customer,Product,Quantity,Price,OrderDate
-1001,Dustin,Monitor,4.0,150,2025-05-13
-1003,Victoria,USB Drive,3.0,20,2024-10-15
-1004,Jim,Monitor,2.7142857142857144,150,2025-03-28
-1005,Steven,Mouse,2.0,25,2025-06-02
-1006,Nicholas,Monitor,3.0,150,2025-07-23
-1007,Lauren,Printer,2.0,120,2025-04-30
-1008,Amy,Printer,2.0,120,2024-11-30
-1009,Jesse,Webcam,2.0,80,2025-01-13
-1010,Rachel,Monitor,1.0,150,2024-12-08
-1011,Roberto,Webcam,1.0,80,2025-03-01
-1012,Caroline,Webcam,3.0,80,2025-04-25
-1013,David,Headphones,2.0,60,2025-05-12
-1014,Mark,Headphones,3.0,60,2025-03-07
-1015,Steven,Keyboard,2.5555555555555554,45,2025-06-21
-1016,Jeremy,Keyboard,2.0,45,2025-01-22
-1017,Eddie,Webcam,2.0,80,2024-11-28
-1018,Steven,Monitor,2.7142857142857144,150,2025-02-19
-1019,Elizabeth,Webcam,2.0,80,2025-04-16
-1020,Roy,USB Drive,2.0,20,2025-01-29
-1021,Steven,Mouse,1.0,25,2025-02-11
-1022,Michelle,USB Drive,2.3260869565217392,20,2024-09-06
-1023,Misty,Keyboard,3.0,45,2025-06-03
-1024,Danielle,Mouse,4.0,25,2025-01-25
-1025,Matthew,Headphones,4.0,60,2025-05-21
-1026,Dustin,Mouse,4.0,25,2024-11-14
-1027,Gabriela,Mouse,1.0,25,2024-10-25
-1028,Sarah,Headphones,4.0,60,2025-01-16
-1029,William,USB Drive,3.0,20,2024-12-11
-1030,Scott,Keyboard,2.0,45,2024-12-31
-1031,Morgan,Laptop,1.0,700,2025-02-25
-1032,Jennifer,Printer,4.0,120,2024-11-07
-1033,Dan,Keyboard,4.0,45,2024-09-16
-1034,Michelle,Mouse,2.255813953488372,25,2024-09-30
-1035,Aaron,Webcam,2.268292682926829,80,2025-03-21
-1036,David,Laptop,3.0,700,2024-10-22
-1037,Lori,Mouse,3.0,25,2025-02-06
-1038,Mark,Printer,2.457627118644068,120,2025-05-11
-1039,Michael,Printer,4.0,120,2025-04-11
-1040,Samantha,Headphones,2.0,60,2025-05-30
-1041,Kimberly,Printer,3.0,120,2025-02-28
-1042,Laura,Printer,4.0,120,2025-04-22
-1043,Daniel,Printer,2.0,120,2025-07-20
-1044,Lonnie,Monitor,2.0,150,2025-05-05
-1045,Kristin,Webcam,2.0,80,2025-05-19
-1046,Candace,Mouse,2.255813953488372,25,2025-05-16
-1047,Jennifer,Monitor,3.0,150,2025-03-21
-1048,Ashley,Printer,2.0,120,2024-12-09
-1049,Theresa,Printer,3.0,120,2025-01-14
-1050,Allison,Webcam,2.268292682926829,80,2025-06-01
-1051,Leslie,Webcam,1.0,80,2025-07-08
-1052,Matthew,Webcam,2.268292682926829,80,2025-01-25
-1053,Frank,Printer,1.0,120,2025-07-03
-1054,Christopher,Webcam,1.0,80,2024-10-18
-1055,Matthew,Laptop,2.0,700,2025-05-04
-1056,Gabriella,Headphones,3.0,60,2025-02-16
-1057,Erin,Monitor,2.0,150,2025-03-03
-1058,Jessica,Laptop,2.659090909090909,700,2025-01-31
-1059,Philip,Laptop,1.0,700,2025-06-03
-1060,Sarah,Laptop,2.0,700,2024-10-15
-1061,Joshua,Headphones,2.6037735849056602,60,2025-01-20
-1062,Laura,USB Drive,2.3260869565217392,20,2025-04-23
-1063,Anne,Laptop,4.0,700,2025-06-02
-1064,Tina,Monitor,2.7142857142857144,150,2025-06-02
-1065,Nicole,Laptop,2.0,700,2024-10-01
-1066,Clifford,Mouse,2.0,25,2025-02-10
-1067,Donald,USB Drive,2.3260869565217392,20,2024-09-16
-1068,Jonathan,Headphones,3.0,60,2025-05-02
-1069,Susan,Mouse,2.0,25,2025-01-08
-1070,Theresa,Printer,1.0,120,2025-07-31
-1071,Matthew,Headphones,4.0,60,2024-12-23
-1072,Matthew,Monitor,4.0,150,2024-08-23
-1073,Michael,Keyboard,4.0,45,2025-03-05
-1074,Jaime,Keyboard,2.0,45,2025-07-05
-1075,Ann,USB Drive,2.0,20,2025-07-31
-1076,Ashley,Keyboard,4.0,45,2025-04-26
-1077,Rebecca,Headphones,2.6037735849056602,60,2025-01-09
-1078,Joshua,USB Drive,1.0,20,2024-08-08
-1079,Patricia,Keyboard,1.0,45,2025-01-08
-1080,Joe,Mouse,3.0,25,2025-02-21
-1081,Carlos,Headphones,2.0,60,2024-11-29
-1082,Nicole,Laptop,2.0,700,2025-06-26
-1083,Christina,Printer,1.0,120,2025-07-04
-1084,David,Mouse,2.255813953488372,25,2025-01-29
-1085,Sean,Mouse,3.0,25,2025-01-23
-1086,Cynthia,Laptop,2.659090909090909,700,2025-06-20
-1087,Bryan,Printer,2.457627118644068,120,2025-06-15
-1088,Richard,Keyboard,2.0,45,2024-12-30
-1089,Christine,Printer,1.0,120,2024-10-19
-1090,Jeffery,Laptop,3.0,700,2025-07-23
-1091,Ashley,Mouse,1.0,25,2025-06-16
-1092,Kathleen,Printer,2.0,120,2024-10-30
-1093,Jennifer,Keyboard,4.0,45,2025-04-03
-1094,Michael,Headphones,2.6037735849056602,60,2025-04-07
-1095,David,Keyboard,1.0,45,2025-03-21
-1096,Jennifer,Printer,2.457627118644068,120,2024-12-24
-1097,Robert,Keyboard,2.0,45,2025-02-21
-1098,Michael,Printer,2.0,120,2025-02-10
-1099,George,Printer,2.457627118644068,120,2025-08-02
-1100,Anna,Mouse,2.0,25,2025-06-04
-1101,Laurie,Laptop,2.659090909090909,700,2025-07-31
-1102,Justin,Laptop,2.659090909090909,700,2024-11-14
-1103,Tony,Monitor,4.0,150,2024-11-23
-1104,Heidi,Laptop,2.659090909090909,700,2025-01-05
-1105,Nicole,USB Drive,2.3260869565217392,20,2025-01-21
-1106,Matthew,Keyboard,2.0,45,2025-01-26
-1107,Allison,Headphones,1.0,60,2025-05-07
-1108,Krista,Webcam,3.0,80,2024-10-10
-1109,Paul,Headphones,2.0,60,2025-02-12
-1110,Jared,Printer,4.0,120,2024-11-06
-1111,Cynthia,Laptop,4.0,700,2025-05-04
-1112,Crystal,Mouse,2.0,25,2024-10-04
-1113,Jennifer,Webcam,3.0,80,2024-10-17
-1114,Richard,Printer,2.457627118644068,120,2025-03-29
-1115,Angela,Keyboard,2.0,45,2025-04-22
-1116,Kathryn,Mouse,2.255813953488372,25,2024-09-07
-1117,Kristy,Webcam,2.268292682926829,80,2024-09-26
-1118,Michael,Monitor,2.0,150,2024-11-14
-1119,Kimberly,Laptop,2.0,700,2025-01-21
-1120,Tiffany,Headphones,4.0,60,2025-03-24
-1121,Stephen,Headphones,4.0,60,2025-03-22
-1122,Kathleen,Monitor,2.0,150,2025-03-10
-1123,Robert,Webcam,2.0,80,2024-11-18
-1124,Jessica,Webcam,1.0,80,2025-05-22
-1125,Adrienne,Keyboard,2.0,45,2025-07-11
-1126,Craig,USB Drive,2.0,20,2025-05-30
-1127,Jonathan,Headphones,2.0,60,2025-03-13
-1128,William,Headphones,3.0,60,2025-03-25
-1129,Victoria,Mouse,1.0,25,2025-08-03
-1130,Jennifer,Printer,3.0,120,2025-06-05
-1131,Tammy,Laptop,4.0,700,2025-07-01
-1132,Dylan,Keyboard,1.0,45,2025-03-16
-1133,Jenny,Keyboard,4.0,45,2025-01-17
-1134,Cynthia,Mouse,2.255813953488372,25,2025-05-17
-1136,Melissa,USB Drive,3.0,20,2025-06-07
-1137,Derrick,Webcam,3.0,80,2025-06-07
-1138,Angelica,USB Drive,2.0,20,2025-05-22
-1139,Chris,USB Drive,3.0,20,2025-06-18
-1140,Angela,Laptop,2.659090909090909,700,2025-05-26
-1141,Lisa,Printer,2.457627118644068,120,2025-06-03
-1142,Jeffrey,Headphones,1.0,60,2024-08-17
-1143,David,Printer,4.0,120,2025-02-24
-1144,Krista,Mouse,2.0,25,2024-10-14
-1145,Thomas,Laptop,4.0,700,2025-01-30
-1146,Timothy,Monitor,4.0,150,2025-02-15
-1147,Brittany,USB Drive,1.0,20,2025-02-04
-1148,Elizabeth,Webcam,2.268292682926829,80,2024-09-23
-1149,Matthew,USB Drive,3.0,20,2025-02-07
-1150,Daniel,Monitor,2.7142857142857144,150,2024-08-12
-1151,Francisco,Monitor,2.0,150,2024-09-04
-1152,Wayne,USB Drive,2.0,20,2025-04-30
-1153,Diana,Keyboard,2.0,45,2025-04-29
-1154,Laura,USB Drive,2.3260869565217392,20,2025-01-07
-1155,Robert,USB Drive,2.3260869565217392,20,2024-08-24
-1156,Annette,Printer,4.0,120,2025-07-01
-1157,Ronald,Mouse,1.0,25,2024-08-21
-1158,Tina,Laptop,2.0,700,2025-01-01
-1159,Catherine,Printer,2.457627118644068,120,2025-05-21
-1160,Brandon,Keyboard,2.5555555555555554,45,2024-11-17
-1161,Victor,Headphones,4.0,60,2025-01-28
-1162,Susan,Headphones,2.6037735849056602,60,2025-04-29
-1163,Colleen,USB Drive,3.0,20,2024-12-20
-1164,Elizabeth,USB Drive,2.0,20,2025-03-19
-1165,Louis,Laptop,2.659090909090909,700,2025-07-11
-1166,Jose,USB Drive,2.3260869565217392,20,2025-02-19
-1167,Rebecca,Keyboard,3.0,45,2025-06-22
-1168,Jimmy,Headphones,2.6037735849056602,60,2025-05-31
-1169,Mark,Printer,3.0,120,2024-09-07
-1170,Hannah,Headphones,3.0,60,2024-09-15
-1171,Travis,Printer,2.0,120,2024-09-14
-1172,Ronald,Printer,2.0,120,2025-03-01
-1173,Matthew,Webcam,2.0,80,2024-12-06
-1174,Kim,Printer,2.0,120,2025-05-08
-1175,Anthony,Laptop,3.0,700,2024-10-24
-1176,Joseph,Mouse,2.0,25,2025-06-23
-1177,Richard,USB Drive,1.0,20,2024-11-15
-1178,Laurie,Laptop,2.0,700,2024-08-28
-1179,Katherine,Headphones,2.6037735849056602,60,2024-08-23
-1180,Timothy,USB Drive,2.3260869565217392,20,2025-07-15
-1181,Tracy,Mouse,2.255813953488372,25,2025-04-15
-1182,Jonathan,Keyboard,2.0,45,2025-04-11
-1183,Kayla,USB Drive,3.0,20,2025-03-11
-1184,Vanessa,Printer,4.0,120,2025-05-03
-1185,Thomas,Laptop,2.659090909090909,700,2025-05-17
-1186,Kelly,Laptop,2.659090909090909,700,2025-06-12
-1187,Anthony,Webcam,4.0,80,2024-09-20
-1188,Kelly,Mouse,3.0,25,2025-06-06
-1189,Wesley,Headphones,2.0,60,2025-07-18
-1190,Roger,Laptop,2.659090909090909,700,2024-08-26
-1191,Brandy,Monitor,4.0,150,2024-09-08
-1192,Jimmy,Headphones,3.0,60,2025-02-04
-1194,Edwin,Headphones,2.0,60,2025-02-10
-1195,James,Printer,4.0,120,2025-07-28
-1196,Robin,Keyboard,2.0,45,2025-04-08
-1197,Jane,Monitor,2.7142857142857144,150,2024-09-23
-1198,Louis,Headphones,3.0,60,2025-02-14
-1199,Anthony,Printer,1.0,120,2024-08-14
-1200,Jeffrey,USB Drive,4.0,20,2025-01-02
-1201,Lisa,Monitor,2.0,150,2024-12-28
-1203,Teresa,Monitor,1.0,150,2024-12-24
-1204,Tony,Keyboard,1.0,45,2025-03-18
-1205,Amanda,Monitor,2.7142857142857144,150,2024-10-28
-1206,Elizabeth,Monitor,2.7142857142857144,150,2024-12-29
-1207,Patrick,Webcam,4.0,80,2024-09-05
-1208,Sarah,Keyboard,3.0,45,2025-07-15
-1209,Victoria,Laptop,2.0,700,2025-06-08
-1210,Tanya,Mouse,1.0,25,2024-10-28
-1211,Colleen,Mouse,4.0,25,2024-11-22
-1212,Dean,USB Drive,4.0,20,2024-08-13
-1213,Richard,Monitor,2.0,150,2024-10-12
-1214,Tracy,Laptop,2.0,700,2024-12-09
-1215,Tammy,Monitor,2.7142857142857144,150,2025-01-30
-1216,Christopher,Monitor,4.0,150,2024-10-03
-1217,Laura,Keyboard,1.0,45,2025-07-19
-1218,Allison,USB Drive,1.0,20,2025-04-11
-1219,Sylvia,Headphones,2.0,60,2024-11-24
-1220,Jason,USB Drive,2.3260869565217392,20,2025-07-26
-1221,Christopher,Mouse,1.0,25,2024-08-26
-1222,Angela,Headphones,4.0,60,2025-05-06
-1223,Jennifer,USB Drive,2.3260869565217392,20,2025-07-17
-1224,Joe,USB Drive,3.0,20,2024-11-18
-1225,Shane,Monitor,3.0,150,2025-01-04
-1227,Kim,Keyboard,4.0,45,2025-01-01
-1228,Robert,Webcam,1.0,80,2025-02-14
-1229,Allen,Printer,1.0,120,2025-05-02
-1230,Deanna,Mouse,2.0,25,2025-03-18
-1231,Kristen,Webcam,2.0,80,2025-04-24
-1233,Daniel,Mouse,2.0,25,2024-09-12
-1234,Amanda,Webcam,2.268292682926829,80,2024-09-24
-1235,Isabel,Headphones,1.0,60,2025-04-27
-1236,Linda,Mouse,2.0,25,2025-08-03
-1237,Shawn,USB Drive,3.0,20,2024-09-11
-1238,Richard,Headphones,3.0,60,2024-12-01
-1239,Matthew,Mouse,4.0,25,2025-06-15
-1240,William,Keyboard,4.0,45,2025-01-08
-1241,Melissa,USB Drive,2.0,20,2024-12-23
-1242,Judy,Keyboard,1.0,45,2025-02-11
-1243,Tara,Printer,3.0,120,2025-04-17
-1244,Tammie,Webcam,3.0,80,2025-06-22
-1245,Rebecca,Webcam,4.0,80,2025-06-28
-1246,Maria,Headphones,2.0,60,2025-02-06
-1247,Anita,Printer,4.0,120,2024-10-30
-1248,Monica,USB Drive,3.0,20,2025-01-23
-1249,Joseph,Printer,2.457627118644068,120,2024-08-23
-1250,Cynthia,Laptop,4.0,700,2024-10-23
-1251,Chloe,Headphones,1.0,60,2025-07-12
-1252,Jennifer,Headphones,1.0,60,2025-03-24
-1253,William,Monitor,4.0,150,2024-10-23
-1254,Veronica,USB Drive,2.0,20,2024-10-11
-1255,Bethany,Keyboard,4.0,45,2024-12-17
-1256,Michael,Laptop,2.0,700,2025-06-29
-1257,John,Monitor,1.0,150,2024-08-12
-1258,Kelsey,Monitor,1.0,150,2025-02-18
-1259,Matthew,Keyboard,3.0,45,2025-01-30
-1260,Anthony,Printer,1.0,120,2024-10-31
-1261,Timothy,Printer,3.0,120,2025-04-22
-1262,Justin,Webcam,1.0,80,2025-02-13
-1263,Donna,Keyboard,2.5555555555555554,45,2025-06-25
-1264,Christopher,Monitor,2.0,150,2025-01-18
-1265,Kenneth,Monitor,1.0,150,2025-03-20
-1266,John,Mouse,2.255813953488372,25,2024-12-26
-1267,Kyle,Mouse,1.0,25,2025-01-08
-1268,Melissa,Printer,3.0,120,2024-09-16
-1269,Michael,Laptop,4.0,700,2024-08-26
-1270,Nathan,Webcam,1.0,80,2025-03-29
-1271,Mario,Headphones,2.0,60,2025-04-15
-1273,Robert,Headphones,2.0,60,2025-03-21
-1274,Kenneth,Monitor,2.7142857142857144,150,2024-09-13
-1275,Dana,Printer,1.0,120,2025-06-02
-1276,Derek,Printer,3.0,120,2024-10-19
-1277,Stephen,USB Drive,1.0,20,2025-04-29
-1278,Tamara,Laptop,3.0,700,2025-04-21
-1279,Joseph,Keyboard,1.0,45,2025-04-22
-1280,Dawn,Headphones,2.6037735849056602,60,2025-04-07
-1281,Gabriel,Headphones,4.0,60,2025-07-18
-1282,Robert,Headphones,3.0,60,2025-08-05
-1283,Ryan,Monitor,3.0,150,2024-10-28
-1284,Shelby,Laptop,4.0,700,2025-01-25
-1285,Diana,USB Drive,2.3260869565217392,20,2025-05-04
-1286,Richard,Keyboard,2.5555555555555554,45,2025-05-05
-1287,Janet,Mouse,4.0,25,2025-03-24
-1288,Christine,Webcam,3.0,80,2024-10-20
-1289,Jennifer,Webcam,3.0,80,2024-11-30
-1290,Julia,Mouse,1.0,25,2025-07-27
-1291,Charles,Webcam,1.0,80,2025-03-20
-1292,Robert,Webcam,1.0,80,2025-05-09
-1293,Emily,Keyboard,1.0,45,2024-09-08
-1294,Erin,Webcam,4.0,80,2024-10-26
-1295,Ashley,Mouse,2.0,25,2025-07-31
-1296,Kristin,Webcam,4.0,80,2024-08-25
-1297,Stephanie,Keyboard,4.0,45,2025-07-15
-1298,Jennifer,Printer,2.0,120,2025-02-11
-1299,Sandra,Laptop,2.0,700,2025-06-08
-1300,Melissa,Printer,4.0,120,2025-03-15
-1301,Meredith,Keyboard,3.0,45,2025-03-04
-1302,Amy,Keyboard,1.0,45,2025-03-31
-1303,Chris,Keyboard,3.0,45,2024-08-09
-1304,Richard,USB Drive,3.0,20,2024-09-06
-1305,Emily,USB Drive,2.3260869565217392,20,2025-05-18
-1306,Cindy,Monitor,4.0,150,2025-06-08
-1307,Samuel,USB Drive,2.3260869565217392,20,2024-09-10
-1308,Amber,Keyboard,2.0,45,2024-10-17
-1309,Brandon,Mouse,3.0,25,2024-11-05
-1310,Stephen,USB Drive,1.0,20,2025-05-03
-1311,Louis,Headphones,2.6037735849056602,60,2024-10-02
-1312,Margaret,Monitor,4.0,150,2025-08-01
-1313,Michael,Mouse,2.255813953488372,25,2025-08-01
-1315,Charles,Laptop,2.0,700,2024-08-26
-1316,Ronald,USB Drive,1.0,20,2024-10-20
-1317,Eric,Monitor,3.0,150,2024-12-01
-1318,Nancy,Webcam,1.0,80,2024-10-23
-1319,Shirley,Keyboard,1.0,45,2025-01-10
-1320,Nicole,Headphones,2.0,60,2025-04-21
-1321,Vanessa,Keyboard,2.5555555555555554,45,2024-11-02
-1322,Amanda,Keyboard,4.0,45,2025-07-14
-1323,Jacob,USB Drive,4.0,20,2025-01-27
-1324,Kenneth,Keyboard,3.0,45,2025-04-29
-1325,Andrew,Webcam,2.268292682926829,80,2025-01-09
-1327,Jessica,Mouse,4.0,25,2024-10-09
-1328,Michelle,Printer,2.0,120,2025-01-04
-1329,Beverly,USB Drive,2.0,20,2025-02-07
-1330,Whitney,Monitor,2.7142857142857144,150,2025-03-29
-1331,Michael,Keyboard,3.0,45,2025-02-26
-1332,Jose,USB Drive,2.0,20,2025-04-08
-1333,Tanya,Printer,2.457627118644068,120,2024-08-29
-1334,Patricia,Printer,3.0,120,2024-10-27
-1335,Sandra,Keyboard,2.0,45,2024-12-16
-1336,Christopher,Monitor,2.0,150,2024-09-07
-1337,David,Laptop,1.0,700,2024-11-11
-1338,Christopher,Headphones,2.0,60,2025-03-09
-1339,Jeffery,Monitor,2.0,150,2025-04-30
-1340,Paige,Webcam,2.0,80,2024-12-26
-1341,Greg,Laptop,4.0,700,2024-11-17
-1342,Michael,Printer,1.0,120,2024-08-19
-1343,Kenneth,Keyboard,2.5555555555555554,45,2025-07-17
-1344,Timothy,Printer,2.457627118644068,120,2024-12-03
-1345,Drew,Laptop,4.0,700,2025-04-27
-1346,Jeanne,Keyboard,4.0,45,2025-03-04
-1347,Lori,Laptop,3.0,700,2025-06-02
-1348,Laura,Monitor,2.0,150,2025-05-18
-1349,Lisa,Headphones,4.0,60,2025-05-28
-1350,Rachael,Headphones,4.0,60,2025-07-14
-1351,Sylvia,Printer,3.0,120,2025-03-08
-1352,Shelby,Printer,1.0,120,2024-12-31
-1353,Gabriel,Headphones,4.0,60,2024-10-31
-1354,Anne,Headphones,2.0,60,2024-08-20
-1355,Andrea,Mouse,1.0,25,2024-12-30
-1356,Peter,Mouse,1.0,25,2025-06-05
-1357,Jeremy,Printer,3.0,120,2024-10-03
-1358,Melissa,Headphones,2.6037735849056602,60,2025-03-01
-1359,Jason,Mouse,1.0,25,2025-04-10
-1360,Timothy,Laptop,3.0,700,2024-11-03
-1361,Cheryl,Monitor,2.7142857142857144,150,2024-08-11
-1362,Alan,Mouse,1.0,25,2025-04-21
-1363,Sheila,Headphones,2.6037735849056602,60,2024-11-07
-1364,Robert,Headphones,2.6037735849056602,60,2024-08-27
-1365,Maureen,Webcam,1.0,80,2025-04-04
-1366,James,Webcam,4.0,80,2025-03-22
-1367,Jeffrey,Headphones,1.0,60,2025-02-09
-1368,Wanda,USB Drive,2.3260869565217392,20,2024-08-20
-1369,Paul,Printer,2.457627118644068,120,2024-11-14
-1370,Angela,Laptop,2.0,700,2024-12-21
-1371,Julia,Keyboard,3.0,45,2025-05-13
-1372,Linda,Webcam,2.0,80,2025-01-26
-1373,Lauren,Monitor,4.0,150,2024-12-28
-1374,Heather,USB Drive,2.3260869565217392,20,2025-07-22
-1375,Laura,Printer,2.457627118644068,120,2025-03-31
-1376,Matthew,USB Drive,2.0,20,2025-05-14
-1377,Kenneth,Headphones,1.0,60,2024-12-21
-1378,Elizabeth,Webcam,4.0,80,2024-10-02
-1379,David,Laptop,2.659090909090909,700,2025-06-05
-1380,Jason,Webcam,3.0,80,2024-10-16
-1381,Courtney,Monitor,2.7142857142857144,150,2025-01-21
-1382,Eric,Headphones,3.0,60,2025-04-21
-1383,Cynthia,Keyboard,2.5555555555555554,45,2025-06-10
-1384,Kathleen,Printer,4.0,120,2024-08-14
-1385,Amber,Monitor,4.0,150,2024-10-29
-1386,Brandon,Laptop,2.0,700,2024-09-24
-1387,Wendy,Monitor,2.7142857142857144,150,2025-08-05
-1388,Anthony,Headphones,4.0,60,2024-09-19
-1389,Kayla,Laptop,4.0,700,2025-02-03
-1390,Mary,Laptop,2.659090909090909,700,2025-03-15
-1391,Joshua,Monitor,2.0,150,2025-05-19
-1392,Brett,Headphones,1.0,60,2025-07-15
-1393,Samuel,USB Drive,4.0,20,2024-09-04
-1394,Lisa,Webcam,1.0,80,2025-06-16
-1395,Bobby,USB Drive,1.0,20,2025-05-02
-1396,Richard,Printer,3.0,120,2025-06-25
-1397,Angel,Mouse,1.0,25,2025-05-16
-1398,Mary,Monitor,2.0,150,2024-09-07
-1399,Gregory,USB Drive,3.0,20,2024-08-24
-1400,Brandon,Keyboard,4.0,45,2024-10-16
-1401,Catherine,Printer,3.0,120,2025-03-26
-1402,Angel,Printer,1.0,120,2024-08-13
-1403,Cody,Laptop,1.0,700,2025-07-02
-1404,Lisa,Monitor,2.7142857142857144,150,2024-09-30
-1405,Jacob,Laptop,1.0,700,2024-10-01
-1406,Julian,Printer,1.0,120,2024-10-11
-1407,Adam,Webcam,2.268292682926829,80,2024-11-20
-1408,Henry,Monitor,2.7142857142857144,150,2025-02-07
-1409,Thomas,Printer,2.0,120,2025-04-25
-1410,Matthew,Webcam,2.268292682926829,80,2025-04-25
-1411,Jennifer,Laptop,2.659090909090909,700,2024-12-04
-1412,Timothy,Printer,4.0,120,2024-11-30
-1413,Natalie,USB Drive,2.0,20,2024-12-30
-1414,Amy,Mouse,1.0,25,2024-09-06
-1415,Angela,Printer,2.0,120,2025-02-13
-1416,Kenneth,USB Drive,3.0,20,2024-09-12
-1417,Julie,Monitor,4.0,150,2024-09-14
-1418,Brianna,Webcam,2.0,80,2025-05-20
-1419,Erin,Webcam,2.0,80,2024-09-02
-1420,Jacqueline,USB Drive,1.0,20,2024-08-28
-1421,James,USB Drive,2.3260869565217392,20,2025-06-13
-1422,Donna,Headphones,2.6037735849056602,60,2024-11-07
-1423,Casey,Headphones,2.6037735849056602,60,2024-09-08
-1424,Monica,Monitor,3.0,150,2024-09-10
-1425,Spencer,Printer,2.0,120,2024-09-27
-1426,Jill,Monitor,4.0,150,2024-08-11
-1427,Maria,Mouse,2.255813953488372,25,2024-09-03
-1428,Craig,Printer,3.0,120,2024-08-25
-1429,Denise,USB Drive,2.0,20,2024-08-31
-1430,Claire,Keyboard,2.0,45,2024-08-18
-1431,Spencer,Mouse,4.0,25,2024-12-01
-1432,Betty,Webcam,2.0,80,2024-08-26
-1433,Bruce,Printer,4.0,120,2025-05-17
-1434,Zachary,Laptop,2.659090909090909,700,2024-11-11
-1435,Erika,Laptop,3.0,700,2025-05-20
-1436,Thomas,Printer,3.0,120,2025-03-12
-1437,Craig,USB Drive,4.0,20,2024-11-18
-1438,Tammy,Headphones,3.0,60,2025-02-26
-1439,Patricia,Printer,1.0,120,2025-07-12
-1440,Sabrina,Headphones,4.0,60,2025-08-04
-1441,Michael,Keyboard,2.0,45,2025-03-29
-1443,Randy,Laptop,3.0,700,2024-08-14
-1444,Jennifer,Mouse,2.0,25,2025-01-30
-1445,James,Keyboard,4.0,45,2024-09-03
-1446,Michelle,USB Drive,3.0,20,2024-09-19
-1447,Michelle,Headphones,1.0,60,2024-12-27
-1448,Kristen,Monitor,4.0,150,2024-12-09
-1449,Ronald,Laptop,4.0,700,2025-02-07
-1450,Jennifer,Headphones,2.6037735849056602,60,2024-11-28
-1451,Laura,Printer,2.0,120,2025-02-11
-1452,Kathleen,Mouse,4.0,25,2024-10-06
-1453,Kimberly,Monitor,2.7142857142857144,150,2024-10-28
-1454,Eric,Laptop,2.0,700,2024-08-20
-1455,Elizabeth,Printer,2.0,120,2025-04-10
-1456,Rachel,Monitor,2.0,150,2025-05-11
-1457,Rhonda,Laptop,4.0,700,2025-03-10
-1458,Michael,USB Drive,2.0,20,2025-02-22
-1459,Shelly,Monitor,2.7142857142857144,150,2024-10-25
-1460,Ruth,Headphones,1.0,60,2024-08-25
-1461,Leslie,Printer,2.0,120,2024-11-15
-1462,Jill,USB Drive,4.0,20,2025-07-27
-1463,Kenneth,Webcam,2.268292682926829,80,2025-05-10
-1464,Lisa,Headphones,2.6037735849056602,60,2025-08-05
-1465,Richard,Keyboard,3.0,45,2024-09-13
-1466,Gary,Headphones,4.0,60,2025-06-27
-1467,Sean,Keyboard,4.0,45,2025-06-05
-1468,Roger,Monitor,2.7142857142857144,150,2024-08-06
-1469,Judith,Monitor,3.0,150,2025-05-26
-1470,Edwin,Headphones,3.0,60,2025-07-30
-1471,Cindy,Headphones,4.0,60,2025-03-17
-1472,Rebecca,Laptop,4.0,700,2025-04-24
-1473,Melanie,Printer,2.457627118644068,120,2024-10-21
-1474,Tiffany,USB Drive,2.3260869565217392,20,2024-08-28
-1475,Richard,Headphones,2.0,60,2025-07-01
-1476,Charles,Monitor,1.0,150,2024-11-11
-1477,Amber,USB Drive,1.0,20,2025-07-17
-1478,Kevin,Webcam,2.268292682926829,80,2024-12-16
-1479,Russell,Printer,1.0,120,2025-08-05
-1480,Sarah,Mouse,3.0,25,2024-09-28
-1481,Sara,Keyboard,1.0,45,2025-07-04
-1482,Craig,Keyboard,2.0,45,2025-05-29
-1483,Robert,Mouse,4.0,25,2025-03-24
-1484,Oscar,Laptop,1.0,700,2024-09-18
-1485,Shelia,Webcam,2.0,80,2024-11-20
-1486,William,USB Drive,2.0,20,2025-01-23
-1487,Colleen,Headphones,2.0,60,2024-10-02
-1488,Michael,USB Drive,1.0,20,2024-10-12
-1489,April,Laptop,4.0,700,2025-03-22
-1490,Dale,Headphones,2.6037735849056602,60,2025-03-20
-1491,Brittney,Mouse,4.0,25,2024-12-24
-1492,Melissa,Laptop,1.0,700,2025-02-19
-1493,David,Keyboard,4.0,45,2025-04-06
-1494,Dylan,Webcam,3.0,80,2024-12-02
-1495,Luis,Printer,2.457627118644068,120,2024-11-09
-1496,Luke,Printer,2.457627118644068,120,2024-09-19
-1497,Nicole,Monitor,2.7142857142857144,150,2025-07-22
-1498,Kimberly,Monitor,3.0,150,2024-08-13
-1499,Sandra,Keyboard,4.0,45,2024-11-05
-1500,Jessica,Keyboard,1.0,45,2024-08-25
+1001,Dustin,Monitor,4,150,2025-05-13
+1003,Victoria,USB Drive,3,20,2024-10-15
+1004,Jim,Monitor,3,150,2025-03-28
+1005,Steven,Mouse,2,25,2025-06-02
+1006,Nicholas,Monitor,3,150,2025-07-23
+1007,Lauren,Printer,2,120,2025-04-30
+1008,Amy,Printer,2,120,2024-11-30
+1009,Jesse,Webcam,2,80,2025-01-13
+1010,Rachel,Monitor,1,150,2024-12-08
+1011,Roberto,Webcam,1,80,2025-03-01
+1012,Caroline,Webcam,3,80,2025-04-25
+1013,David,Headphones,2,60,2025-05-12
+1014,Mark,Headphones,3,60,2025-03-07
+1015,Steven,Keyboard,3,45,2025-06-21
+1016,Jeremy,Keyboard,2,45,2025-01-22
+1017,Eddie,Webcam,2,80,2024-11-28
+1018,Steven,Monitor,3,150,2025-02-19
+1019,Elizabeth,Webcam,2,80,2025-04-16
+1020,Roy,USB Drive,2,20,2025-01-29
+1021,Steven,Mouse,1,25,2025-02-11
+1022,Michelle,USB Drive,2,20,2024-09-06
+1023,Misty,Keyboard,3,45,2025-06-03
+1024,Danielle,Mouse,4,25,2025-01-25
+1025,Matthew,Headphones,4,60,2025-05-21
+1026,Dustin,Mouse,4,25,2024-11-14
+1027,Gabriela,Mouse,1,25,2024-10-25
+1028,Sarah,Headphones,4,60,2025-01-16
+1029,William,USB Drive,3,20,2024-12-11
+1030,Scott,Keyboard,2,45,2024-12-31
+1031,Morgan,Laptop,1,700,2025-02-25
+1032,Jennifer,Printer,4,120,2024-11-07
+1033,Dan,Keyboard,4,45,2024-09-16
+1034,Michelle,Mouse,2,25,2024-09-30
+1035,Aaron,Webcam,2,80,2025-03-21
+1036,David,Laptop,3,700,2024-10-22
+1037,Lori,Mouse,3,25,2025-02-06
+1038,Mark,Printer,2,120,2025-05-11
+1039,Michael,Printer,4,120,2025-04-11
+1040,Samantha,Headphones,2,60,2025-05-30
+1041,Kimberly,Printer,3,120,2025-02-28
+1042,Laura,Printer,4,120,2025-04-22
+1043,Daniel,Printer,2,120,2025-07-20
+1044,Lonnie,Monitor,2,150,2025-05-05
+1045,Kristin,Webcam,2,80,2025-05-19
+1046,Candace,Mouse,2,25,2025-05-16
+1047,Jennifer,Monitor,3,150,2025-03-21
+1048,Ashley,Printer,2,120,2024-12-09
+1049,Theresa,Printer,3,120,2025-01-14
+1050,Allison,Webcam,2,80,2025-06-01
+1051,Leslie,Webcam,1,80,2025-07-08
+1052,Matthew,Webcam,2,80,2025-01-25
+1053,Frank,Printer,1,120,2025-07-03
+1054,Christopher,Webcam,1,80,2024-10-18
+1055,Matthew,Laptop,2,700,2025-05-04
+1056,Gabriella,Headphones,3,60,2025-02-16
+1057,Erin,Monitor,2,150,2025-03-03
+1058,Jessica,Laptop,3,700,2025-01-31
+1059,Philip,Laptop,1,700,2025-06-03
+1060,Sarah,Laptop,2,700,2024-10-15
+1061,Joshua,Headphones,3,60,2025-01-20
+1062,Laura,USB Drive,2,20,2025-04-23
+1063,Anne,Laptop,4,700,2025-06-02
+1064,Tina,Monitor,3,150,2025-06-02
+1065,Nicole,Laptop,2,700,2024-10-01
+1066,Clifford,Mouse,2,25,2025-02-10
+1067,Donald,USB Drive,2,20,2024-09-16
+1068,Jonathan,Headphones,3,60,2025-05-02
+1069,Susan,Mouse,2,25,2025-01-08
+1070,Theresa,Printer,1,120,2025-07-31
+1071,Matthew,Headphones,4,60,2024-12-23
+1072,Matthew,Monitor,4,150,2024-08-23
+1073,Michael,Keyboard,4,45,2025-03-05
+1074,Jaime,Keyboard,2,45,2025-07-05
+1075,Ann,USB Drive,2,20,2025-07-31
+1076,Ashley,Keyboard,4,45,2025-04-26
+1077,Rebecca,Headphones,3,60,2025-01-09
+1078,Joshua,USB Drive,1,20,2024-08-08
+1079,Patricia,Keyboard,1,45,2025-01-08
+1080,Joe,Mouse,3,25,2025-02-21
+1081,Carlos,Headphones,2,60,2024-11-29
+1082,Nicole,Laptop,2,700,2025-06-26
+1083,Christina,Printer,1,120,2025-07-04
+1084,David,Mouse,2,25,2025-01-29
+1085,Sean,Mouse,3,25,2025-01-23
+1086,Cynthia,Laptop,3,700,2025-06-20
+1087,Bryan,Printer,2,120,2025-06-15
+1088,Richard,Keyboard,2,45,2024-12-30
+1089,Christine,Printer,1,120,2024-10-19
+1090,Jeffery,Laptop,3,700,2025-07-23
+1091,Ashley,Mouse,1,25,2025-06-16
+1092,Kathleen,Printer,2,120,2024-10-30
+1093,Jennifer,Keyboard,4,45,2025-04-03
+1094,Michael,Headphones,3,60,2025-04-07
+1095,David,Keyboard,1,45,2025-03-21
+1096,Jennifer,Printer,2,120,2024-12-24
+1097,Robert,Keyboard,2,45,2025-02-21
+1098,Michael,Printer,2,120,2025-02-10
+1099,George,Printer,2,120,2025-08-02
+1100,Anna,Mouse,2,25,2025-06-04
+1101,Laurie,Laptop,3,700,2025-07-31
+1102,Justin,Laptop,3,700,2024-11-14
+1103,Tony,Monitor,4,150,2024-11-23
+1104,Heidi,Laptop,3,700,2025-01-05
+1105,Nicole,USB Drive,2,20,2025-01-21
+1106,Matthew,Keyboard,2,45,2025-01-26
+1107,Allison,Headphones,1,60,2025-05-07
+1108,Krista,Webcam,3,80,2024-10-10
+1109,Paul,Headphones,2,60,2025-02-12
+1110,Jared,Printer,4,120,2024-11-06
+1111,Cynthia,Laptop,4,700,2025-05-04
+1112,Crystal,Mouse,2,25,2024-10-04
+1113,Jennifer,Webcam,3,80,2024-10-17
+1114,Richard,Printer,2,120,2025-03-29
+1115,Angela,Keyboard,2,45,2025-04-22
+1116,Kathryn,Mouse,2,25,2024-09-07
+1117,Kristy,Webcam,2,80,2024-09-26
+1118,Michael,Monitor,2,150,2024-11-14
+1119,Kimberly,Laptop,2,700,2025-01-21
+1120,Tiffany,Headphones,4,60,2025-03-24
+1121,Stephen,Headphones,4,60,2025-03-22
+1122,Kathleen,Monitor,2,150,2025-03-10
+1123,Robert,Webcam,2,80,2024-11-18
+1124,Jessica,Webcam,1,80,2025-05-22
+1125,Adrienne,Keyboard,2,45,2025-07-11
+1126,Craig,USB Drive,2,20,2025-05-30
+1127,Jonathan,Headphones,2,60,2025-03-13
+1128,William,Headphones,3,60,2025-03-25
+1129,Victoria,Mouse,1,25,2025-08-03
+1130,Jennifer,Printer,3,120,2025-06-05
+1131,Tammy,Laptop,4,700,2025-07-01
+1132,Dylan,Keyboard,1,45,2025-03-16
+1133,Jenny,Keyboard,4,45,2025-01-17
+1134,Cynthia,Mouse,2,25,2025-05-17
+1136,Melissa,USB Drive,3,20,2025-06-07
+1137,Derrick,Webcam,3,80,2025-06-07
+1138,Angelica,USB Drive,2,20,2025-05-22
+1139,Chris,USB Drive,3,20,2025-06-18
+1140,Angela,Laptop,3,700,2025-05-26
+1141,Lisa,Printer,2,120,2025-06-03
+1142,Jeffrey,Headphones,1,60,2024-08-17
+1143,David,Printer,4,120,2025-02-24
+1144,Krista,Mouse,2,25,2024-10-14
+1145,Thomas,Laptop,4,700,2025-01-30
+1146,Timothy,Monitor,4,150,2025-02-15
+1147,Brittany,USB Drive,1,20,2025-02-04
+1148,Elizabeth,Webcam,2,80,2024-09-23
+1149,Matthew,USB Drive,3,20,2025-02-07
+1150,Daniel,Monitor,3,150,2024-08-12
+1151,Francisco,Monitor,2,150,2024-09-04
+1152,Wayne,USB Drive,2,20,2025-04-30
+1153,Diana,Keyboard,2,45,2025-04-29
+1154,Laura,USB Drive,2,20,2025-01-07
+1155,Robert,USB Drive,2,20,2024-08-24
+1156,Annette,Printer,4,120,2025-07-01
+1157,Ronald,Mouse,1,25,2024-08-21
+1158,Tina,Laptop,2,700,2025-01-01
+1159,Catherine,Printer,2,120,2025-05-21
+1160,Brandon,Keyboard,3,45,2024-11-17
+1161,Victor,Headphones,4,60,2025-01-28
+1162,Susan,Headphones,3,60,2025-04-29
+1163,Colleen,USB Drive,3,20,2024-12-20
+1164,Elizabeth,USB Drive,2,20,2025-03-19
+1165,Louis,Laptop,3,700,2025-07-11
+1166,Jose,USB Drive,2,20,2025-02-19
+1167,Rebecca,Keyboard,3,45,2025-06-22
+1168,Jimmy,Headphones,3,60,2025-05-31
+1169,Mark,Printer,3,120,2024-09-07
+1170,Hannah,Headphones,3,60,2024-09-15
+1171,Travis,Printer,2,120,2024-09-14
+1172,Ronald,Printer,2,120,2025-03-01
+1173,Matthew,Webcam,2,80,2024-12-06
+1174,Kim,Printer,2,120,2025-05-08
+1175,Anthony,Laptop,3,700,2024-10-24
+1176,Joseph,Mouse,2,25,2025-06-23
+1177,Richard,USB Drive,1,20,2024-11-15
+1178,Laurie,Laptop,2,700,2024-08-28
+1179,Katherine,Headphones,3,60,2024-08-23
+1180,Timothy,USB Drive,2,20,2025-07-15
+1181,Tracy,Mouse,2,25,2025-04-15
+1182,Jonathan,Keyboard,2,45,2025-04-11
+1183,Kayla,USB Drive,3,20,2025-03-11
+1184,Vanessa,Printer,4,120,2025-05-03
+1185,Thomas,Laptop,3,700,2025-05-17
+1186,Kelly,Laptop,3,700,2025-06-12
+1187,Anthony,Webcam,4,80,2024-09-20
+1188,Kelly,Mouse,3,25,2025-06-06
+1189,Wesley,Headphones,2,60,2025-07-18
+1190,Roger,Laptop,3,700,2024-08-26
+1191,Brandy,Monitor,4,150,2024-09-08
+1192,Jimmy,Headphones,3,60,2025-02-04
+1194,Edwin,Headphones,2,60,2025-02-10
+1195,James,Printer,4,120,2025-07-28
+1196,Robin,Keyboard,2,45,2025-04-08
+1197,Jane,Monitor,3,150,2024-09-23
+1198,Louis,Headphones,3,60,2025-02-14
+1199,Anthony,Printer,1,120,2024-08-14
+1200,Jeffrey,USB Drive,4,20,2025-01-02
+1201,Lisa,Monitor,2,150,2024-12-28
+1203,Teresa,Monitor,1,150,2024-12-24
+1204,Tony,Keyboard,1,45,2025-03-18
+1205,Amanda,Monitor,3,150,2024-10-28
+1206,Elizabeth,Monitor,3,150,2024-12-29
+1207,Patrick,Webcam,4,80,2024-09-05
+1208,Sarah,Keyboard,3,45,2025-07-15
+1209,Victoria,Laptop,2,700,2025-06-08
+1210,Tanya,Mouse,1,25,2024-10-28
+1211,Colleen,Mouse,4,25,2024-11-22
+1212,Dean,USB Drive,4,20,2024-08-13
+1213,Richard,Monitor,2,150,2024-10-12
+1214,Tracy,Laptop,2,700,2024-12-09
+1215,Tammy,Monitor,3,150,2025-01-30
+1216,Christopher,Monitor,4,150,2024-10-03
+1217,Laura,Keyboard,1,45,2025-07-19
+1218,Allison,USB Drive,1,20,2025-04-11
+1219,Sylvia,Headphones,2,60,2024-11-24
+1220,Jason,USB Drive,2,20,2025-07-26
+1221,Christopher,Mouse,1,25,2024-08-26
+1222,Angela,Headphones,4,60,2025-05-06
+1223,Jennifer,USB Drive,2,20,2025-07-17
+1224,Joe,USB Drive,3,20,2024-11-18
+1225,Shane,Monitor,3,150,2025-01-04
+1227,Kim,Keyboard,4,45,2025-01-01
+1228,Robert,Webcam,1,80,2025-02-14
+1229,Allen,Printer,1,120,2025-05-02
+1230,Deanna,Mouse,2,25,2025-03-18
+1231,Kristen,Webcam,2,80,2025-04-24
+1233,Daniel,Mouse,2,25,2024-09-12
+1234,Amanda,Webcam,2,80,2024-09-24
+1235,Isabel,Headphones,1,60,2025-04-27
+1236,Linda,Mouse,2,25,2025-08-03
+1237,Shawn,USB Drive,3,20,2024-09-11
+1238,Richard,Headphones,3,60,2024-12-01
+1239,Matthew,Mouse,4,25,2025-06-15
+1240,William,Keyboard,4,45,2025-01-08
+1241,Melissa,USB Drive,2,20,2024-12-23
+1242,Judy,Keyboard,1,45,2025-02-11
+1243,Tara,Printer,3,120,2025-04-17
+1244,Tammie,Webcam,3,80,2025-06-22
+1245,Rebecca,Webcam,4,80,2025-06-28
+1246,Maria,Headphones,2,60,2025-02-06
+1247,Anita,Printer,4,120,2024-10-30
+1248,Monica,USB Drive,3,20,2025-01-23
+1249,Joseph,Printer,2,120,2024-08-23
+1250,Cynthia,Laptop,4,700,2024-10-23
+1251,Chloe,Headphones,1,60,2025-07-12
+1252,Jennifer,Headphones,1,60,2025-03-24
+1253,William,Monitor,4,150,2024-10-23
+1254,Veronica,USB Drive,2,20,2024-10-11
+1255,Bethany,Keyboard,4,45,2024-12-17
+1256,Michael,Laptop,2,700,2025-06-29
+1257,John,Monitor,1,150,2024-08-12
+1258,Kelsey,Monitor,1,150,2025-02-18
+1259,Matthew,Keyboard,3,45,2025-01-30
+1260,Anthony,Printer,1,120,2024-10-31
+1261,Timothy,Printer,3,120,2025-04-22
+1262,Justin,Webcam,1,80,2025-02-13
+1263,Donna,Keyboard,3,45,2025-06-25
+1264,Christopher,Monitor,2,150,2025-01-18
+1265,Kenneth,Monitor,1,150,2025-03-20
+1266,John,Mouse,2,25,2024-12-26
+1267,Kyle,Mouse,1,25,2025-01-08
+1268,Melissa,Printer,3,120,2024-09-16
+1269,Michael,Laptop,4,700,2024-08-26
+1270,Nathan,Webcam,1,80,2025-03-29
+1271,Mario,Headphones,2,60,2025-04-15
+1273,Robert,Headphones,2,60,2025-03-21
+1274,Kenneth,Monitor,3,150,2024-09-13
+1275,Dana,Printer,1,120,2025-06-02
+1276,Derek,Printer,3,120,2024-10-19
+1277,Stephen,USB Drive,1,20,2025-04-29
+1278,Tamara,Laptop,3,700,2025-04-21
+1279,Joseph,Keyboard,1,45,2025-04-22
+1280,Dawn,Headphones,3,60,2025-04-07
+1281,Gabriel,Headphones,4,60,2025-07-18
+1282,Robert,Headphones,3,60,2025-08-05
+1283,Ryan,Monitor,3,150,2024-10-28
+1284,Shelby,Laptop,4,700,2025-01-25
+1285,Diana,USB Drive,2,20,2025-05-04
+1286,Richard,Keyboard,3,45,2025-05-05
+1287,Janet,Mouse,4,25,2025-03-24
+1288,Christine,Webcam,3,80,2024-10-20
+1289,Jennifer,Webcam,3,80,2024-11-30
+1290,Julia,Mouse,1,25,2025-07-27
+1291,Charles,Webcam,1,80,2025-03-20
+1292,Robert,Webcam,1,80,2025-05-09
+1293,Emily,Keyboard,1,45,2024-09-08
+1294,Erin,Webcam,4,80,2024-10-26
+1295,Ashley,Mouse,2,25,2025-07-31
+1296,Kristin,Webcam,4,80,2024-08-25
+1297,Stephanie,Keyboard,4,45,2025-07-15
+1298,Jennifer,Printer,2,120,2025-02-11
+1299,Sandra,Laptop,2,700,2025-06-08
+1300,Melissa,Printer,4,120,2025-03-15
+1301,Meredith,Keyboard,3,45,2025-03-04
+1302,Amy,Keyboard,1,45,2025-03-31
+1303,Chris,Keyboard,3,45,2024-08-09
+1304,Richard,USB Drive,3,20,2024-09-06
+1305,Emily,USB Drive,2,20,2025-05-18
+1306,Cindy,Monitor,4,150,2025-06-08
+1307,Samuel,USB Drive,2,20,2024-09-10
+1308,Amber,Keyboard,2,45,2024-10-17
+1309,Brandon,Mouse,3,25,2024-11-05
+1310,Stephen,USB Drive,1,20,2025-05-03
+1311,Louis,Headphones,3,60,2024-10-02
+1312,Margaret,Monitor,4,150,2025-08-01
+1313,Michael,Mouse,2,25,2025-08-01
+1315,Charles,Laptop,2,700,2024-08-26
+1316,Ronald,USB Drive,1,20,2024-10-20
+1317,Eric,Monitor,3,150,2024-12-01
+1318,Nancy,Webcam,1,80,2024-10-23
+1319,Shirley,Keyboard,1,45,2025-01-10
+1320,Nicole,Headphones,2,60,2025-04-21
+1321,Vanessa,Keyboard,3,45,2024-11-02
+1322,Amanda,Keyboard,4,45,2025-07-14
+1323,Jacob,USB Drive,4,20,2025-01-27
+1324,Kenneth,Keyboard,3,45,2025-04-29
+1325,Andrew,Webcam,2,80,2025-01-09
+1327,Jessica,Mouse,4,25,2024-10-09
+1328,Michelle,Printer,2,120,2025-01-04
+1329,Beverly,USB Drive,2,20,2025-02-07
+1330,Whitney,Monitor,3,150,2025-03-29
+1331,Michael,Keyboard,3,45,2025-02-26
+1332,Jose,USB Drive,2,20,2025-04-08
+1333,Tanya,Printer,2,120,2024-08-29
+1334,Patricia,Printer,3,120,2024-10-27
+1335,Sandra,Keyboard,2,45,2024-12-16
+1336,Christopher,Monitor,2,150,2024-09-07
+1337,David,Laptop,1,700,2024-11-11
+1338,Christopher,Headphones,2,60,2025-03-09
+1339,Jeffery,Monitor,2,150,2025-04-30
+1340,Paige,Webcam,2,80,2024-12-26
+1341,Greg,Laptop,4,700,2024-11-17
+1342,Michael,Printer,1,120,2024-08-19
+1343,Kenneth,Keyboard,3,45,2025-07-17
+1344,Timothy,Printer,2,120,2024-12-03
+1345,Drew,Laptop,4,700,2025-04-27
+1346,Jeanne,Keyboard,4,45,2025-03-04
+1347,Lori,Laptop,3,700,2025-06-02
+1348,Laura,Monitor,2,150,2025-05-18
+1349,Lisa,Headphones,4,60,2025-05-28
+1350,Rachael,Headphones,4,60,2025-07-14
+1351,Sylvia,Printer,3,120,2025-03-08
+1352,Shelby,Printer,1,120,2024-12-31
+1353,Gabriel,Headphones,4,60,2024-10-31
+1354,Anne,Headphones,2,60,2024-08-20
+1355,Andrea,Mouse,1,25,2024-12-30
+1356,Peter,Mouse,1,25,2025-06-05
+1357,Jeremy,Printer,3,120,2024-10-03
+1358,Melissa,Headphones,3,60,2025-03-01
+1359,Jason,Mouse,1,25,2025-04-10
+1360,Timothy,Laptop,3,700,2024-11-03
+1361,Cheryl,Monitor,3,150,2024-08-11
+1362,Alan,Mouse,1,25,2025-04-21
+1363,Sheila,Headphones,3,60,2024-11-07
+1364,Robert,Headphones,3,60,2024-08-27
+1365,Maureen,Webcam,1,80,2025-04-04
+1366,James,Webcam,4,80,2025-03-22
+1367,Jeffrey,Headphones,1,60,2025-02-09
+1368,Wanda,USB Drive,2,20,2024-08-20
+1369,Paul,Printer,2,120,2024-11-14
+1370,Angela,Laptop,2,700,2024-12-21
+1371,Julia,Keyboard,3,45,2025-05-13
+1372,Linda,Webcam,2,80,2025-01-26
+1373,Lauren,Monitor,4,150,2024-12-28
+1374,Heather,USB Drive,2,20,2025-07-22
+1375,Laura,Printer,2,120,2025-03-31
+1376,Matthew,USB Drive,2,20,2025-05-14
+1377,Kenneth,Headphones,1,60,2024-12-21
+1378,Elizabeth,Webcam,4,80,2024-10-02
+1379,David,Laptop,3,700,2025-06-05
+1380,Jason,Webcam,3,80,2024-10-16
+1381,Courtney,Monitor,3,150,2025-01-21
+1382,Eric,Headphones,3,60,2025-04-21
+1383,Cynthia,Keyboard,3,45,2025-06-10
+1384,Kathleen,Printer,4,120,2024-08-14
+1385,Amber,Monitor,4,150,2024-10-29
+1386,Brandon,Laptop,2,700,2024-09-24
+1387,Wendy,Monitor,3,150,2025-08-05
+1388,Anthony,Headphones,4,60,2024-09-19
+1389,Kayla,Laptop,4,700,2025-02-03
+1390,Mary,Laptop,3,700,2025-03-15
+1391,Joshua,Monitor,2,150,2025-05-19
+1392,Brett,Headphones,1,60,2025-07-15
+1393,Samuel,USB Drive,4,20,2024-09-04
+1394,Lisa,Webcam,1,80,2025-06-16
+1395,Bobby,USB Drive,1,20,2025-05-02
+1396,Richard,Printer,3,120,2025-06-25
+1397,Angel,Mouse,1,25,2025-05-16
+1398,Mary,Monitor,2,150,2024-09-07
+1399,Gregory,USB Drive,3,20,2024-08-24
+1400,Brandon,Keyboard,4,45,2024-10-16
+1401,Catherine,Printer,3,120,2025-03-26
+1402,Angel,Printer,1,120,2024-08-13
+1403,Cody,Laptop,1,700,2025-07-02
+1404,Lisa,Monitor,3,150,2024-09-30
+1405,Jacob,Laptop,1,700,2024-10-01
+1406,Julian,Printer,1,120,2024-10-11
+1407,Adam,Webcam,2,80,2024-11-20
+1408,Henry,Monitor,3,150,2025-02-07
+1409,Thomas,Printer,2,120,2025-04-25
+1410,Matthew,Webcam,2,80,2025-04-25
+1411,Jennifer,Laptop,3,700,2024-12-04
+1412,Timothy,Printer,4,120,2024-11-30
+1413,Natalie,USB Drive,2,20,2024-12-30
+1414,Amy,Mouse,1,25,2024-09-06
+1415,Angela,Printer,2,120,2025-02-13
+1416,Kenneth,USB Drive,3,20,2024-09-12
+1417,Julie,Monitor,4,150,2024-09-14
+1418,Brianna,Webcam,2,80,2025-05-20
+1419,Erin,Webcam,2,80,2024-09-02
+1420,Jacqueline,USB Drive,1,20,2024-08-28
+1421,James,USB Drive,2,20,2025-06-13
+1422,Donna,Headphones,3,60,2024-11-07
+1423,Casey,Headphones,3,60,2024-09-08
+1424,Monica,Monitor,3,150,2024-09-10
+1425,Spencer,Printer,2,120,2024-09-27
+1426,Jill,Monitor,4,150,2024-08-11
+1427,Maria,Mouse,2,25,2024-09-03
+1428,Craig,Printer,3,120,2024-08-25
+1429,Denise,USB Drive,2,20,2024-08-31
+1430,Claire,Keyboard,2,45,2024-08-18
+1431,Spencer,Mouse,4,25,2024-12-01
+1432,Betty,Webcam,2,80,2024-08-26
+1433,Bruce,Printer,4,120,2025-05-17
+1434,Zachary,Laptop,3,700,2024-11-11
+1435,Erika,Laptop,3,700,2025-05-20
+1436,Thomas,Printer,3,120,2025-03-12
+1437,Craig,USB Drive,4,20,2024-11-18
+1438,Tammy,Headphones,3,60,2025-02-26
+1439,Patricia,Printer,1,120,2025-07-12
+1440,Sabrina,Headphones,4,60,2025-08-04
+1441,Michael,Keyboard,2,45,2025-03-29
+1443,Randy,Laptop,3,700,2024-08-14
+1444,Jennifer,Mouse,2,25,2025-01-30
+1445,James,Keyboard,4,45,2024-09-03
+1446,Michelle,USB Drive,3,20,2024-09-19
+1447,Michelle,Headphones,1,60,2024-12-27
+1448,Kristen,Monitor,4,150,2024-12-09
+1449,Ronald,Laptop,4,700,2025-02-07
+1450,Jennifer,Headphones,3,60,2024-11-28
+1451,Laura,Printer,2,120,2025-02-11
+1452,Kathleen,Mouse,4,25,2024-10-06
+1453,Kimberly,Monitor,3,150,2024-10-28
+1454,Eric,Laptop,2,700,2024-08-20
+1455,Elizabeth,Printer,2,120,2025-04-10
+1456,Rachel,Monitor,2,150,2025-05-11
+1457,Rhonda,Laptop,4,700,2025-03-10
+1458,Michael,USB Drive,2,20,2025-02-22
+1459,Shelly,Monitor,3,150,2024-10-25
+1460,Ruth,Headphones,1,60,2024-08-25
+1461,Leslie,Printer,2,120,2024-11-15
+1462,Jill,USB Drive,4,20,2025-07-27
+1463,Kenneth,Webcam,2,80,2025-05-10
+1464,Lisa,Headphones,3,60,2025-08-05
+1465,Richard,Keyboard,3,45,2024-09-13
+1466,Gary,Headphones,4,60,2025-06-27
+1467,Sean,Keyboard,4,45,2025-06-05
+1468,Roger,Monitor,3,150,2024-08-06
+1469,Judith,Monitor,3,150,2025-05-26
+1470,Edwin,Headphones,3,60,2025-07-30
+1471,Cindy,Headphones,4,60,2025-03-17
+1472,Rebecca,Laptop,4,700,2025-04-24
+1473,Melanie,Printer,2,120,2024-10-21
+1474,Tiffany,USB Drive,2,20,2024-08-28
+1475,Richard,Headphones,2,60,2025-07-01
+1476,Charles,Monitor,1,150,2024-11-11
+1477,Amber,USB Drive,1,20,2025-07-17
+1478,Kevin,Webcam,2,80,2024-12-16
+1479,Russell,Printer,1,120,2025-08-05
+1480,Sarah,Mouse,3,25,2024-09-28
+1481,Sara,Keyboard,1,45,2025-07-04
+1482,Craig,Keyboard,2,45,2025-05-29
+1483,Robert,Mouse,4,25,2025-03-24
+1484,Oscar,Laptop,1,700,2024-09-18
+1485,Shelia,Webcam,2,80,2024-11-20
+1486,William,USB Drive,2,20,2025-01-23
+1487,Colleen,Headphones,2,60,2024-10-02
+1488,Michael,USB Drive,1,20,2024-10-12
+1489,April,Laptop,4,700,2025-03-22
+1490,Dale,Headphones,3,60,2025-03-20
+1491,Brittney,Mouse,4,25,2024-12-24
+1492,Melissa,Laptop,1,700,2025-02-19
+1493,David,Keyboard,4,45,2025-04-06
+1494,Dylan,Webcam,3,80,2024-12-02
+1495,Luis,Printer,2,120,2024-11-09
+1496,Luke,Printer,2,120,2024-09-19
+1497,Nicole,Monitor,3,150,2025-07-22
+1498,Kimberly,Monitor,3,150,2024-08-13
+1499,Sandra,Keyboard,4,45,2024-11-05
+1500,Jessica,Keyboard,1,45,2024-08-25

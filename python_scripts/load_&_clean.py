@@ -16,6 +16,9 @@ df['Quantity'] = df.groupby('Product')['Quantity'].transform(
     lambda x: x.fillna(x.mean())
 )
 
+# Rounding 'Quantity' to the nearest integer
+df['Quantity'] = df['Quantity'].round().astype(int)
+
 # Step 4: Save the cleaned data
 df.to_csv(output_path, index=False)
 
